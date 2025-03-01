@@ -18,7 +18,7 @@ The dataset consists of 26 fields (e.g., customer name, order date, city) and co
 6. What is the average discount offered across all transactions?
 7. What are the regional quarterly profit trends?
 
-## Dashboard ()
+## Dashboard (Dashboard.png)
 
 ## Key Findings
 1. **State Profit Distribution:**
